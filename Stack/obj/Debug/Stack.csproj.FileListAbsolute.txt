@@ -1,0 +1,10 @@
+\\qut.edu.au\documents\StaffHome\StaffGroupt$\tangm\Desktop\CAB301-2019\Teaching Resources\Week 8\CAB301-Workshop7-Code\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (Semester 1, 2020)\Teaching Resources\Week 8\CAB301-Workshop6-Code\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\Workshop2-Code\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\MELTUser01\Downloads\Question 3 Code\Question 3 Code\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\Downloads\Question 3 Code\Question 3 Code\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\Downloads\Question 3 Code\Question 3 Code\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\MELTUser01\Downloads\Question 3 Code\Question 3 Code\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\MELTUser01\Downloads\Question 3 Code\Question 3 Code\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\MELTUser01\Downloads\Question 3 Code\Question 3 Code\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\MELTUser01\Downloads\Question 3 Code\Question 3 Code\Stack\Stack\obj\Debug\Stack.pdb
