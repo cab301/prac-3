@@ -1,0 +1,14 @@
+C:\Users\MELTUser01\source\repos\CircularQueue\bin\Debug\net8.0\CircularQueue.exe
+C:\Users\MELTUser01\source\repos\CircularQueue\bin\Debug\net8.0\CircularQueue.deps.json
+C:\Users\MELTUser01\source\repos\CircularQueue\bin\Debug\net8.0\CircularQueue.runtimeconfig.json
+C:\Users\MELTUser01\source\repos\CircularQueue\bin\Debug\net8.0\CircularQueue.dll
+C:\Users\MELTUser01\source\repos\CircularQueue\bin\Debug\net8.0\CircularQueue.pdb
+C:\Users\MELTUser01\source\repos\CircularQueue\obj\Debug\net8.0\CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\source\repos\CircularQueue\obj\Debug\net8.0\CircularQueue.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\source\repos\CircularQueue\obj\Debug\net8.0\CircularQueue.AssemblyInfo.cs
+C:\Users\MELTUser01\source\repos\CircularQueue\obj\Debug\net8.0\CircularQueue.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\source\repos\CircularQueue\obj\Debug\net8.0\CircularQueue.dll
+C:\Users\MELTUser01\source\repos\CircularQueue\obj\Debug\net8.0\refint\CircularQueue.dll
+C:\Users\MELTUser01\source\repos\CircularQueue\obj\Debug\net8.0\CircularQueue.pdb
+C:\Users\MELTUser01\source\repos\CircularQueue\obj\Debug\net8.0\CircularQueue.genruntimeconfig.cache
+C:\Users\MELTUser01\source\repos\CircularQueue\obj\Debug\net8.0\ref\CircularQueue.dll
