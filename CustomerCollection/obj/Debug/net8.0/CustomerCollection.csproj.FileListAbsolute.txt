@@ -1,0 +1,14 @@
+C:\Users\MELTUser01\source\repos\CustomerCollection\bin\Debug\net8.0\CustomerCollection.exe
+C:\Users\MELTUser01\source\repos\CustomerCollection\bin\Debug\net8.0\CustomerCollection.deps.json
+C:\Users\MELTUser01\source\repos\CustomerCollection\bin\Debug\net8.0\CustomerCollection.runtimeconfig.json
+C:\Users\MELTUser01\source\repos\CustomerCollection\bin\Debug\net8.0\CustomerCollection.dll
+C:\Users\MELTUser01\source\repos\CustomerCollection\bin\Debug\net8.0\CustomerCollection.pdb
+C:\Users\MELTUser01\source\repos\CustomerCollection\obj\Debug\net8.0\CustomerCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\source\repos\CustomerCollection\obj\Debug\net8.0\CustomerCollection.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\source\repos\CustomerCollection\obj\Debug\net8.0\CustomerCollection.AssemblyInfo.cs
+C:\Users\MELTUser01\source\repos\CustomerCollection\obj\Debug\net8.0\CustomerCollection.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\source\repos\CustomerCollection\obj\Debug\net8.0\CustomerCollection.dll
+C:\Users\MELTUser01\source\repos\CustomerCollection\obj\Debug\net8.0\refint\CustomerCollection.dll
+C:\Users\MELTUser01\source\repos\CustomerCollection\obj\Debug\net8.0\CustomerCollection.pdb
+C:\Users\MELTUser01\source\repos\CustomerCollection\obj\Debug\net8.0\CustomerCollection.genruntimeconfig.cache
+C:\Users\MELTUser01\source\repos\CustomerCollection\obj\Debug\net8.0\ref\CustomerCollection.dll
